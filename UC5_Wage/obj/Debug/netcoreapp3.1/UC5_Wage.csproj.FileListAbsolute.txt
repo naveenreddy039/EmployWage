@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\UC5_Wage\UC5_Wage\obj\Debug\netcoreapp3.1\UC5_Wage.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\UC5_Wage\UC5_Wage\obj\Debug\netcoreapp3.1\UC5_Wage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\UC5_Wage\UC5_Wage\obj\Debug\netcoreapp3.1\UC5_Wage.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\UC5_Wage\UC5_Wage\obj\Debug\netcoreapp3.1\UC5_Wage.AssemblyInfo.cs
+C:\Users\hp\source\repos\UC5_Wage\UC5_Wage\obj\Debug\netcoreapp3.1\UC5_Wage.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\UC5_Wage\UC5_Wage\bin\Debug\netcoreapp3.1\UC5_Wage.exe
+C:\Users\hp\source\repos\UC5_Wage\UC5_Wage\bin\Debug\netcoreapp3.1\UC5_Wage.deps.json
+C:\Users\hp\source\repos\UC5_Wage\UC5_Wage\bin\Debug\netcoreapp3.1\UC5_Wage.runtimeconfig.json
+C:\Users\hp\source\repos\UC5_Wage\UC5_Wage\bin\Debug\netcoreapp3.1\UC5_Wage.runtimeconfig.dev.json
+C:\Users\hp\source\repos\UC5_Wage\UC5_Wage\bin\Debug\netcoreapp3.1\UC5_Wage.dll
+C:\Users\hp\source\repos\UC5_Wage\UC5_Wage\bin\Debug\netcoreapp3.1\UC5_Wage.pdb
+C:\Users\hp\source\repos\UC5_Wage\UC5_Wage\obj\Debug\netcoreapp3.1\UC5_Wage.dll
+C:\Users\hp\source\repos\UC5_Wage\UC5_Wage\obj\Debug\netcoreapp3.1\UC5_Wage.pdb
+C:\Users\hp\source\repos\UC5_Wage\UC5_Wage\obj\Debug\netcoreapp3.1\UC5_Wage.genruntimeconfig.cache
