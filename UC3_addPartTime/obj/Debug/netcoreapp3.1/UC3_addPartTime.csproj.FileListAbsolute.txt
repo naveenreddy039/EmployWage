@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\UC3_addPartTime\UC3_addPartTime\obj\Debug\netcoreapp3.1\UC3_addPartTime.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\UC3_addPartTime\UC3_addPartTime\obj\Debug\netcoreapp3.1\UC3_addPartTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\UC3_addPartTime\UC3_addPartTime\obj\Debug\netcoreapp3.1\UC3_addPartTime.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\UC3_addPartTime\UC3_addPartTime\obj\Debug\netcoreapp3.1\UC3_addPartTime.AssemblyInfo.cs
+C:\Users\hp\source\repos\UC3_addPartTime\UC3_addPartTime\obj\Debug\netcoreapp3.1\UC3_addPartTime.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\UC3_addPartTime\UC3_addPartTime\bin\Debug\netcoreapp3.1\UC3_addPartTime.exe
+C:\Users\hp\source\repos\UC3_addPartTime\UC3_addPartTime\bin\Debug\netcoreapp3.1\UC3_addPartTime.deps.json
+C:\Users\hp\source\repos\UC3_addPartTime\UC3_addPartTime\bin\Debug\netcoreapp3.1\UC3_addPartTime.runtimeconfig.json
+C:\Users\hp\source\repos\UC3_addPartTime\UC3_addPartTime\bin\Debug\netcoreapp3.1\UC3_addPartTime.runtimeconfig.dev.json
+C:\Users\hp\source\repos\UC3_addPartTime\UC3_addPartTime\bin\Debug\netcoreapp3.1\UC3_addPartTime.dll
+C:\Users\hp\source\repos\UC3_addPartTime\UC3_addPartTime\bin\Debug\netcoreapp3.1\UC3_addPartTime.pdb
+C:\Users\hp\source\repos\UC3_addPartTime\UC3_addPartTime\obj\Debug\netcoreapp3.1\UC3_addPartTime.dll
+C:\Users\hp\source\repos\UC3_addPartTime\UC3_addPartTime\obj\Debug\netcoreapp3.1\UC3_addPartTime.pdb
+C:\Users\hp\source\repos\UC3_addPartTime\UC3_addPartTime\obj\Debug\netcoreapp3.1\UC3_addPartTime.genruntimeconfig.cache
