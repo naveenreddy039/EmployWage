@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\UC4_case\UC4_case\obj\Debug\netcoreapp3.1\UC4_case.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\UC4_case\UC4_case\obj\Debug\netcoreapp3.1\UC4_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\UC4_case\UC4_case\obj\Debug\netcoreapp3.1\UC4_case.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\UC4_case\UC4_case\obj\Debug\netcoreapp3.1\UC4_case.AssemblyInfo.cs
+C:\Users\hp\source\repos\UC4_case\UC4_case\obj\Debug\netcoreapp3.1\UC4_case.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\UC4_case\UC4_case\bin\Debug\netcoreapp3.1\UC4_case.exe
+C:\Users\hp\source\repos\UC4_case\UC4_case\bin\Debug\netcoreapp3.1\UC4_case.deps.json
+C:\Users\hp\source\repos\UC4_case\UC4_case\bin\Debug\netcoreapp3.1\UC4_case.runtimeconfig.json
+C:\Users\hp\source\repos\UC4_case\UC4_case\bin\Debug\netcoreapp3.1\UC4_case.runtimeconfig.dev.json
+C:\Users\hp\source\repos\UC4_case\UC4_case\bin\Debug\netcoreapp3.1\UC4_case.dll
+C:\Users\hp\source\repos\UC4_case\UC4_case\bin\Debug\netcoreapp3.1\UC4_case.pdb
+C:\Users\hp\source\repos\UC4_case\UC4_case\obj\Debug\netcoreapp3.1\UC4_case.dll
+C:\Users\hp\source\repos\UC4_case\UC4_case\obj\Debug\netcoreapp3.1\UC4_case.pdb
+C:\Users\hp\source\repos\UC4_case\UC4_case\obj\Debug\netcoreapp3.1\UC4_case.genruntimeconfig.cache
