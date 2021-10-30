@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\UC6_emp\UC6_emp\bin\Debug\netcoreapp3.1\UC6_emp.exe
+C:\Users\hp\source\repos\UC6_emp\UC6_emp\bin\Debug\netcoreapp3.1\UC6_emp.deps.json
+C:\Users\hp\source\repos\UC6_emp\UC6_emp\bin\Debug\netcoreapp3.1\UC6_emp.runtimeconfig.json
+C:\Users\hp\source\repos\UC6_emp\UC6_emp\bin\Debug\netcoreapp3.1\UC6_emp.runtimeconfig.dev.json
+C:\Users\hp\source\repos\UC6_emp\UC6_emp\bin\Debug\netcoreapp3.1\UC6_emp.dll
+C:\Users\hp\source\repos\UC6_emp\UC6_emp\bin\Debug\netcoreapp3.1\UC6_emp.pdb
+C:\Users\hp\source\repos\UC6_emp\UC6_emp\obj\Debug\netcoreapp3.1\UC6_emp.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\UC6_emp\UC6_emp\obj\Debug\netcoreapp3.1\UC6_emp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\UC6_emp\UC6_emp\obj\Debug\netcoreapp3.1\UC6_emp.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\UC6_emp\UC6_emp\obj\Debug\netcoreapp3.1\UC6_emp.AssemblyInfo.cs
+C:\Users\hp\source\repos\UC6_emp\UC6_emp\obj\Debug\netcoreapp3.1\UC6_emp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\UC6_emp\UC6_emp\obj\Debug\netcoreapp3.1\UC6_emp.dll
+C:\Users\hp\source\repos\UC6_emp\UC6_emp\obj\Debug\netcoreapp3.1\UC6_emp.pdb
+C:\Users\hp\source\repos\UC6_emp\UC6_emp\obj\Debug\netcoreapp3.1\UC6_emp.genruntimeconfig.cache
