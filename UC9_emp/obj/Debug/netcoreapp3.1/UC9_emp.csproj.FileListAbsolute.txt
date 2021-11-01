@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\UC9_emp\UC9_emp\obj\Debug\netcoreapp3.1\UC9_emp.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\UC9_emp\UC9_emp\obj\Debug\netcoreapp3.1\UC9_emp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\UC9_emp\UC9_emp\obj\Debug\netcoreapp3.1\UC9_emp.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\UC9_emp\UC9_emp\obj\Debug\netcoreapp3.1\UC9_emp.AssemblyInfo.cs
+C:\Users\hp\source\repos\UC9_emp\UC9_emp\obj\Debug\netcoreapp3.1\UC9_emp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\UC9_emp\UC9_emp\bin\Debug\netcoreapp3.1\UC9_emp.exe
+C:\Users\hp\source\repos\UC9_emp\UC9_emp\bin\Debug\netcoreapp3.1\UC9_emp.deps.json
+C:\Users\hp\source\repos\UC9_emp\UC9_emp\bin\Debug\netcoreapp3.1\UC9_emp.runtimeconfig.json
+C:\Users\hp\source\repos\UC9_emp\UC9_emp\bin\Debug\netcoreapp3.1\UC9_emp.runtimeconfig.dev.json
+C:\Users\hp\source\repos\UC9_emp\UC9_emp\bin\Debug\netcoreapp3.1\UC9_emp.dll
+C:\Users\hp\source\repos\UC9_emp\UC9_emp\bin\Debug\netcoreapp3.1\UC9_emp.pdb
+C:\Users\hp\source\repos\UC9_emp\UC9_emp\obj\Debug\netcoreapp3.1\UC9_emp.dll
+C:\Users\hp\source\repos\UC9_emp\UC9_emp\obj\Debug\netcoreapp3.1\UC9_emp.pdb
+C:\Users\hp\source\repos\UC9_emp\UC9_emp\obj\Debug\netcoreapp3.1\UC9_emp.genruntimeconfig.cache
