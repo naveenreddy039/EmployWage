@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\EmpWage10\EmpWage10\bin\Debug\netcoreapp3.1\EmpWage10.exe
+C:\Users\hp\source\repos\EmpWage10\EmpWage10\bin\Debug\netcoreapp3.1\EmpWage10.deps.json
+C:\Users\hp\source\repos\EmpWage10\EmpWage10\bin\Debug\netcoreapp3.1\EmpWage10.runtimeconfig.json
+C:\Users\hp\source\repos\EmpWage10\EmpWage10\bin\Debug\netcoreapp3.1\EmpWage10.runtimeconfig.dev.json
+C:\Users\hp\source\repos\EmpWage10\EmpWage10\bin\Debug\netcoreapp3.1\EmpWage10.dll
+C:\Users\hp\source\repos\EmpWage10\EmpWage10\bin\Debug\netcoreapp3.1\EmpWage10.pdb
+C:\Users\hp\source\repos\EmpWage10\EmpWage10\obj\Debug\netcoreapp3.1\EmpWage10.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\EmpWage10\EmpWage10\obj\Debug\netcoreapp3.1\EmpWage10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\EmpWage10\EmpWage10\obj\Debug\netcoreapp3.1\EmpWage10.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\EmpWage10\EmpWage10\obj\Debug\netcoreapp3.1\EmpWage10.AssemblyInfo.cs
+C:\Users\hp\source\repos\EmpWage10\EmpWage10\obj\Debug\netcoreapp3.1\EmpWage10.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\EmpWage10\EmpWage10\obj\Debug\netcoreapp3.1\EmpWage10.dll
+C:\Users\hp\source\repos\EmpWage10\EmpWage10\obj\Debug\netcoreapp3.1\EmpWage10.pdb
+C:\Users\hp\source\repos\EmpWage10\EmpWage10\obj\Debug\netcoreapp3.1\EmpWage10.genruntimeconfig.cache
